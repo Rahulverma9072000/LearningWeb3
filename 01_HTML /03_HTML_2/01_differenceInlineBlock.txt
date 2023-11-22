@@ -1,0 +1,13 @@
+Difference Between Inline and Block Elements 
+Block Elements : Takes up the full width available (Whole Block), Start from new line .
+inline Elements : Takes up only necessary with . Don't start with new line . 
+
+Am I inline or Block ? 
+
+Heading Element : 
+
+Paragraph ELement : 
+
+Anchor Tag : 
+
+Image Element : 

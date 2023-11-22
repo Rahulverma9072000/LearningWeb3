@@ -1,0 +1,34 @@
+HTMl -> HyperText MarkUp Language 
+-->  Structure and Formatting 
+
+Formatting : Of a WebPage . Like for Plain text if we want unirderedList , Bold text , new line that thing is actually formatting of a Web Page . 
+For Example : 
+
+Before HTML 
+
+Normal Text - The 3 Primary states of matter are Solid, Liquid and Gas . Solid - these states includes material like Iron(Fe) . Liquid - these includes material like Water(H2O). Gas - these includes material like Oxygen (O2)
+
+After HTML : 
+
+The 3 Primary states of matter are Solid, Liquid and Gas .
+* Solid  - these states includes material like Iron(Fe).
+* Liquid - these includes material like Water(H2O).
+* Gas - these includes material like Oxygen (O2).
+
+
+
+HTML Element : 
+Standard Elements that browser recognizes :
+Paragraph : <p> </p>
+Heading : h1 to h6
+Image : <img>
+
+HTML Tags : A content for some content or other tags 
+
+<p>          This is Paragraph  </p>
+Opening Tag      Content        Closing Tag 
+      This whole is called HTML Element 
+
+
+
+.htm or .html is extension for HTML file . 

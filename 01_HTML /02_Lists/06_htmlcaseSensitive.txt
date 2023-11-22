@@ -1,0 +1,12 @@
+
+Some programming languages are Case Sensitive or Non Case Sensitive . 
+
+Case Sensitive : a , A they are different . {apple , Apple are different}
+Non CaseSensitive : a , A are same . {apple , Apple are same }
+
+
+## HTML are Non Case Sensitive 
+
+<html> === <HTML>
+<p> === <P>
+<head> === <HEAD>

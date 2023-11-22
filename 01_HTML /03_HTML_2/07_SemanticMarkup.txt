@@ -1,0 +1,13 @@
+
+It is the markup that relates the meaning of content . 
+2 Types of tags -> Semantic tags and Non-Semantic Tags 
+Semantic tags ko dekh kr hi iska meaning smajh aajata hai isme kya hone wala hai . Example : heading , image ,section , footer 
+Non Semantic Tags : div , span 
+
+Many good website uses Semantic tags 
+Advantages of using Semantic Markup : 
+1)Our Code becomes more meaningfull , layout -> structured 
+2)SEO Friendly 
+3)Make Code Readable 
+4)Blind peoples use Screen Readers so it's helpfull for them 
+5)User Experience Improve 
