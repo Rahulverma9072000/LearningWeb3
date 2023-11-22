@@ -1,0 +1,6 @@
+The term HTML5 is essentially a buzzword that refers to a set of modern web technologies . This include HTML Living Standard , along with JavaScript API's to enhance storage , multimedia , and hardware access . 
+
+How HTML Works ?
+HTML Standard : HTML Standard is a document that tells the browser how HTML should work . 
+
+HTML Code -> Browser (HTML Standard ) -> Render Web Page 
