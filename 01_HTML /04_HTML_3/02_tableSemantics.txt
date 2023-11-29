@@ -1,0 +1,3 @@
+<thead> to wrap table header 
+<tbody> to wrap table body 
+<tfoot> to wrap table footer 

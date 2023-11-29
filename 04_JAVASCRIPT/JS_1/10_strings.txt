@@ -1,0 +1,48 @@
+Strings are text or sequence of characters 
+
+let name = "Tony Stark";
+let role = "ironMan";
+let char = 'a';
+let num = '23';
+let empty = "";
+
+typeof char 
+> 'string'
+
+
+There should be fix format for using ' , " 
+for Single char : Use ' 
+for Multiple characters : Use "
+
+Use different for printing quotes 
+let sentence = 'This is "Apple"';
+let sentence = 'This is 'Apple'";
+
+But if you use same quotes bcoz it got confuse than it give error 
+let sentence = 'This is 'Apple'';
+
+
+
+String Indices 
+
+let name = "TONY STARK";
+//internally every char will get some position 
+//O based indexing 
+name[0] -> 'T'
+name[1] -> 'O'
+
+//If you access the character that is not present or outside the length of the string 
+-> Undefined
+
+name.length
+> 10 
+typeof name.length
+> number 
+name[name.length-1]
+> 'K'
+"Rahul"[0]
+> 'R'
+
+Concatenation : adding strings together 
+"tony" + " " + "stark"
+> 'tony stark' 

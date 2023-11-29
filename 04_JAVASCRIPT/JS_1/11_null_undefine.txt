@@ -1,0 +1,36 @@
+null and undefined in JS 
+
+undefined 
+A variable that has not been assigned a value is of type undefined . 
+
+null 
+The Null value represents the intentional abscence of any object value .
+Note : To be explicitly assigned . 
+
+> let name;
+< undefined
+> typeof name 
+< 'undefined'
+
+> name = "ApnaCollege";
+> name[10000]
+< 'undefined'
+
+>let a  = null;
+< undefined
+>a 
+<null 
+
+Agr koi program start krte hai pr initially uski value hmme nhi ptaa to hm null daal dete hai . 
+
+
+IMP :  
+What are length of an empty string and a string with a single space . 
+
+> let empty = "";
+>empty.length 
+< 0
+
+> let space = " ";
+> space.length
+< 1 

@@ -1,0 +1,20 @@
+Assingment Operator : 
+
+age = age + 1   :  age+=1
+
+age = age - 1   : age-=1
+
+age = age*1     : age*=1
+
+
+Unary Operators : Single Operand 
+Bcoz they are used in code many time 
+
+age++;  //increment 
+age--;  //decrement 
+
+Pre-Increment Operator (Change ,then Use)
+Post-Increment Operator (Use,then Change)
+
+
+Boolean in JS : true , false is keyword in JS . 

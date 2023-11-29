@@ -1,0 +1,9 @@
+Using the Console : 
+
+THis concept used by Console : REPL 
+Uses REPL 
+Read - Evaluate - Print - Loop 
+
+
+//We will be writing code in console to practice JavaScript 
+//We will be focussing on Only JavaScript first 

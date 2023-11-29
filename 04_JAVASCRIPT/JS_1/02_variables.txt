@@ -1,0 +1,32 @@
+Variable : A variable is simply the name of a storage location .
+//Variable means jiki value vary ho skti hai . 
+It is also called storage location . 
+
+Data Types in JS 
+
+Primitive Types: 
+Number 
+Boolean 
+String 
+Undefined 
+Null 
+BigInt 
+Symbol 
+
+Using typeof we can know which datatype is used . 
+
+Numbers in JS : Positive(14) and Negative(-4)
+Integers (45,-50)
+Floating Numbers - with decimal (4.6,-8.9)
+
+
+There is a limit to Numbers in JavaScript . But obviously we don't have to focus on the limits . 
+Ex:  
+a = 0.999999999999999999999999999   When you press Enter a will become 1 . 
+
+
+Operations in JS : 
+Operand : a,b (variable)
+Operator : +,-,*,/
+%(Modulo Operator) , Exponentiation (Power Operator ** )
+

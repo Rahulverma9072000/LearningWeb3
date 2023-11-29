@@ -1,0 +1,22 @@
+let Keywords 
+//Max case we use let keyword 
+Syntax of declaring Variables 
+
+let age = 23; 
+age = age + 1;
+
+let cgpa;
+cgpa = 9.8;
+
+
+
+const keyword : values of constants can't be changed with re-assingment and they can't be re-declared 
+
+const year = 2025;
+const pi = 3.14;
+
+year = 2026; //error 
+
+
+
+var keyword : we don't use var keyword nowadays . Bcoz it's used in Older version of JS . 

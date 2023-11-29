@@ -1,0 +1,6 @@
+All JavaScript variables must be identified with Unique Names(Identifier).
+Names can contain letters,digits,underscores and dollar signs. (No Space)
+Names must begin with letter .
+Names can also begin with $ and _ . 
+Names are case sensitive(y and Y are different variables).
+Reserved words(like Javascript keywords) cannot be used as names. 

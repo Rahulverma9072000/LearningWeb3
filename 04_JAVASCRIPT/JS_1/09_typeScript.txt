@@ -1,0 +1,5 @@
+What is TypeScript ? 
+Static Typed, where JS is dynamic typed . 
+TypeScript is the strict version of JavaScript.
+Dynamic : variable ka datatype change ho skta hai 
+Designed by Microsoft
