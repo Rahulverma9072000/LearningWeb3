@@ -1,0 +1,18 @@
+/* It will apply to all h1  */
+h1{
+    color:blue;
+    background-color: aqua;
+}
+
+p{
+    color:red;
+    background-color: grey;
+
+}
+button{
+    color:goldenrod;
+    /* This is specifically the background color property  */
+    background-color: black;
+    /* Some website have choose general where you can set image , color ...  */
+    background: black;
+}

@@ -1,0 +1,6 @@
+It's advisable that link js file : just before the body tag ends 
+because browser js -> gives functioning of the webpage 
+We want that before adding js actions we all the html css components are loaded in WebPage . 
+
+script element is used to include js file in the index.html 
+<script src="app.js"></script>

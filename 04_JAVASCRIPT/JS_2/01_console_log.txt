@@ -1,0 +1,10 @@
+To write (log) message on the console 
+
+console.log("Rahul");
+console.log("Rahul","Verma");  //Automatic Space will come 
+
+let num = 123;
+//it will pring the value of the variable 
+console.log(num);
+
+console.log(1+2);

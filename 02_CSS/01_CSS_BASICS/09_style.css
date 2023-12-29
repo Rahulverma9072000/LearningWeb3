@@ -1,0 +1,33 @@
+h1{
+    /* This happens according to parent element  */
+    /* Relative to Parent  */
+    /* And this is not Absolute  */
+    text-align: center;
+    /* border:solid; */
+    /* width:50%; */
+    text-decoration: red dotted line-through;
+    letter-spacing: 15px;
+    font-family: fantasy;
+
+}
+h2{
+    /* 400 : normal value  */
+    /* 800 : bold value  */
+    font-weight: 600;
+    text-decoration: blue wavy overline;
+}
+
+h3{
+    text-align: right;
+    text-decoration: wavy pink underline ;
+}
+
+p{
+    text-align: right;
+    line-height: 1.5;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* Anchor tag blue line is removed here  */
+a{
+    text-decoration: none;
+}

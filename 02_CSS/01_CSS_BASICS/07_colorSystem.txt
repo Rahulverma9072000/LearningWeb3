@@ -1,0 +1,21 @@
+Color Systems : 
+
+Named Colors -> color = black;
+Each Browser recognizes around 140 named colors 
+Eg - red,black,pink,purple,magenta,teal 
+But the problem is we have millions of color . let say red has millions of shade but we can name every shade . It will be difficult to remember all the colors . 
+
+
+
+RGB Color System
+Red Green Blue : 3 Primary Color 
+Mix Red and Green : Yellow 
+Red is rgb(255,0,0)
+Black is rgb(0,0,0)
+Blue is rgb(0,0,255)
+Yellow is rgb(255,255,0)
+Color Picker can also help you choose color and gives you rgb value 
+
+
+
+HexaDecimal Color System / Hexa / Hex Code 

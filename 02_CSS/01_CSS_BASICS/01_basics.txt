@@ -1,0 +1,17 @@
+What is CSS ? 
+It is a language that is used to describe the style of a document . 
+
+text , color , bg color , button }- Properties 
+
+
+
+
+Basic Format of CSS : 
+
+h1{
+    color: red;
+}
+
+h1-> Selector 
+color -> property 
+red -> value 

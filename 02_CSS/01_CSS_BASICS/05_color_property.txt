@@ -1,0 +1,7 @@
+Color Property : Used to set the color of foreground 
+color : purple 
+color : #ffffff   #hexcode 
+color : rgb()     #rgb value 
+
+
+

@@ -1,0 +1,72 @@
+Text Properties : 
+
+text-align 
+font-weight
+text-decoration 
+line-height
+letter-spacing 
+font-size 
+
+
+text-align property with refrence to Parent Element 
+
+text-align : left/start 
+text-align : right/end 
+text-align : center 
+text-align : justify 
+
+Why the concept of start / end came in CSS 3 ? 
+See Some languages start from left to right and some langauge start from right to left . Like Arabic : Right to Left 
+So, it makes sense if you are making website for more than 1 languages . 
+left : start 
+right : end 
+
+For justify : horizontal left boundary and vertical right boundary looks similar 
+
+
+font-weight property
+
+font-weight : normal   //400 
+font-weight : bold     //700 
+font-weight : 100 
+
+//These 2 used according to parent elements 
+font-weight : bolder 
+font-weight : lighter 
+
+
+text-decoration :  sets the appearance of decorative lines 
+
+text-decoration : underline 
+text-decoration : overline 
+text-decoration : line-through
+
+We can also use styles in text-decoration 
+text-decoration : red underline
+text-decoration : wavy overline 
+text-decoration : dotted line-through 
+
+#imp 
+In Anchor tag : the default line comes blue color . So text decoration is mainly use to customize that thing. 
+
+
+
+Line Height Property : controls the height of the line of text.
+
+line-height : normal 
+line-height : 2.5   
+
+2.5 means 2.5 * normal 
+
+
+
+
+letter-spacing : controls the horizontal spacing behaviour between text character .
+
+letter-spacing : normal 
+letter-spacing : 10px (px : pixel)
+
+
+font-family : specifies a priortised list of one or more font family names 
+font-family : arial 
+We usually write list of font-family . this works as a backup if anything does not work than different font-family is used 

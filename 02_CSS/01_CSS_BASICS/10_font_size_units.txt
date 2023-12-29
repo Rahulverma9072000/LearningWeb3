@@ -1,0 +1,23 @@
+Font-size Units in CSS 
+
+Absolute           Relative 
+
+px                 %
+pt                 em 
+pc                 rem 
+cm                 ch
+mm                 vh 
+in                 vw + many more 
+
+
+1 in = 96px 
+72pt = 1 in 
+12pt  = 1pc 
+
+We mostly use : px in Absolute , %,em,rem in Relative 
+
+Remember this : 1 inch = 96px 
+px is fixed whether its desktop screen , ipad , laptop screen so we generally dont use px . 
+Responsiveness of the website can't be achieved using px . 
+
+

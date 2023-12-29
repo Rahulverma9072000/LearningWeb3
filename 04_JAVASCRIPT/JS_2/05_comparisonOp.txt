@@ -1,0 +1,16 @@
+Comparison operators to compare 2 value 
+>  -> Greater than 
+>=   -> Greater than equal to 
+
+<    -> Lesser than 
+<=   -> Lesser than equals to 
+
+==   -> equals to 
+
+!=   -> not equals to 
+
+
+IMP NOTE 
+
+== : compares value , not type 
+===  : compares type and value (strict comparison)
