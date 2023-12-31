@@ -1,0 +1,26 @@
+Child Combinator 
+Eg : Selects all buttons which are direct childrens of spans 
+
+span > button {
+    property : value ;
+}
+
+
+
+What is the difference between Child Combinator and Descendant Selector 
+
+1) Child Combinator ('>') 
+ The Child Combinator selects only the immediate children of a particular element 
+ It will not select grandchildren or elemeent at deeper levels in the hierarchy; only the direct children 
+
+2) Descendant Selector (' ')
+ The Descendant selector selects all the element that are Descendant of a specifies element , regardless how deeper they are nested.
+ It does not matter if the element are direct children or nestes deeper in the hierarchy
+
+
+
+ Child : Only 1 level deep we can go using Child Combinator
+
+ # We use Descendant Selector more than Child Combinator
+
+ 

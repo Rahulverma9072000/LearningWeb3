@@ -1,0 +1,6 @@
+Element Selector : Selects all elements of the same type.
+
+h1 -> Element Selector
+h1{
+    property:value ;
+}

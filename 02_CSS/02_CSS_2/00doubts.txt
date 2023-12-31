@@ -1,0 +1,3 @@
+What is the specificity algorithm ? How it works ? 
+
+Like a algorithm in CSS which can predict which CSS property will get the priority.

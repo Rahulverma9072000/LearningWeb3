@@ -1,0 +1,12 @@
+Adjacent Sibling Combinator 
+Eg : h3 that comes immediately after any paragraph
+
+
+p + h3 {
+    property : value ;
+}
+
+p + h3 -> Sibling Combinator
+
+h3, p are at same level 
+It's valid only for the immediate 

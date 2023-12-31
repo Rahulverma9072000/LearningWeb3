@@ -1,0 +1,7 @@
+ID Selector : Unique I'd 
+
+Selects an element based on the values of the element's id attribute 
+
+#myId{
+    property:value;
+}

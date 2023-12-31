@@ -1,0 +1,11 @@
+Descendant Selector 
+
+Eg: Selects all paragraph inside Divs
+
+div p {
+    property : value ;
+}
+
+It's advisable to use classes instead of Descendant Selector bcoz maybe afterward we write code and it also changes the properties 
+
+You can take multiple levels in Descendant Selector

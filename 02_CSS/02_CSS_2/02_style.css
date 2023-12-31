@@ -1,0 +1,104 @@
+*{
+    /* Everything is changed  */
+    /* In Real life Website this is not use  */
+    font-family: 'Courier New';
+}
+/* Element Selector */
+h3{
+    color:purple;
+}
+/* If I want to give multiple element same property than you can give comma  */
+h1,h3{
+    color:#B92B27;
+}
+
+/* Id Selector   */
+#login{
+    background-color: white;
+}
+#signup{
+    background-color: #B92B27;
+    color:white;
+}
+
+/* Class Selector  */
+.upvote{
+    background-color: green;
+    color:aliceblue;
+}
+
+/* Descendant Selector  */
+p a{
+    color:orangered;
+    background-color: yellow;
+}
+
+nav ul li{
+    color: yellowgreen;
+}
+
+p+h3{
+    text-decoration: underline;
+}
+
+.upvote + button{
+    background-color: cornflowerblue;
+    color:darkblue
+}
+
+/* Child Parent Relation   */
+div > input{
+    background-color: darkgray;
+}
+
+/* Attribute Selector  */
+
+input[type="text"]{
+    color:red;
+}
+input[type = "password"]{
+    color:aquamarine
+}
+input[type]{
+    background-color: ghostwhite;
+}
+
+/* Pseudo Classes  */
+
+button:hover{
+    background-color: black;
+    color:white;
+}
+h3:hover{
+    text-decoration: overline;
+}
+
+/* When the button is clicked it's called active  */
+button:active{
+    background-color: hotpink;
+    color:black
+}
+p:active{
+    font-weight: bold;
+    color: green;
+}
+
+input[type="radio"]:checked + label {
+    color:red;
+    font-weight: bold;
+}
+
+
+/* Pseudo Elements   */
+
+h1::first-letter{
+    color:greenyellow;
+}
+
+p::first-line{
+    color:purple;
+}
+
+p::selection{
+    background-color: cyan;
+}

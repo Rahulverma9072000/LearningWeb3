@@ -1,0 +1,9 @@
+Attribute Selector 
+
+Selects elements based on the prescence or value of a given Attribute.
+
+input[attr = "value"]{
+    property : value;
+}
+
+attr = "value" : This is Attribute Selector 

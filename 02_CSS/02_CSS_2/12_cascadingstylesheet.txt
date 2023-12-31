@@ -1,0 +1,41 @@
+CSS : Cascading StyleSheets 
+
+What is cascade in CSS ? 
+The CSS cascade algorithm's job is to select CSS declarations in order to determine the correct values for CSS Properties .
+
+Example : 
+h2{
+    background-color:yellow;
+}
+
+h2{
+    background-color:blue;
+}
+
+The Final Color will be Blue . It's like what is written at end will work . This also means if you have include more than 1 css file . than the last file work will be done . 
+
+
+
+Selector Specificity 
+What is Specificity ? 
+Specificity is an algorithm that calculates the weight that is applied to a given CSS declaration .
+
+
+Practice :
+
+For the given HTML,CSS Code . What is the bg-color of p ? 
+<div>
+    <p class = "para"> This is a Paragraph. </p>
+</div>
+
+div p {
+    background-color : black;           :  Descendant Selector 0 0 2 
+}
+.para{
+    background-color : blue;            :  Class Selector  0 1 0 
+}
+p{
+    background-color : green;           :  Element Selector 0 0 1 
+}
+
+So Blue Color wins . 

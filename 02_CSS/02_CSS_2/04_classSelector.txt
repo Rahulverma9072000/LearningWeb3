@@ -1,0 +1,6 @@
+Class Selector 
+Selects an element based on thier class attribute.
+
+.myClass{
+    property: value;
+}

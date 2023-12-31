@@ -1,0 +1,7 @@
+Pseudo Elements : 
+A keyword added to a selector that lets you style a specific part of the selected element(s)
+::first-letter
+::first-line
+::selection 
+
+There are many other pseudo elements which you can explore on MDN . These 3 are important ones .

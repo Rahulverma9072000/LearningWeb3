@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+#mainTopic{
+    color:blue;
+}
+h1,h2,h3,h4,h5,h6{
+    font-style: 'Georgia';
+}
+/* Sibling Combinator  */
+/* Question is to change the color of all paragraph without selecting p  */
+.content{
+    color:white;
+    background-color: cornflowerblue;
+}
+
+div button{
+    background-color: purple;
+    color:azure;
+}
+button:hover{
+    background-color: yellow;
+    color:blue;   
+}
+
+/* Question 7 : Change color of every odd numbered paragraph to yellow  */
+p:nth-of-type(2n+1){
+    color:yellow;
+}
+/* Question 8 : Change the color of first letter of h1 heading  */
+h1::first-letter{
+    color:greenyellow;
+}
+
+/* Question 9 : Set the text color of checkbox label to dark green when the checkbox is ticked  */
+input[type="checkbox"]:checked + label {
+    color:darkgreen;
+    font-weight: bold;
+}
