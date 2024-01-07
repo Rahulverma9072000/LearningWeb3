@@ -1,0 +1,13 @@
+Height 
+By Default, it sets the content area height of the element . It's not the height of whole div . It's just for the content area height . 
+
+div{
+    height: 100px;
+}
+
+Width 
+By Default , it sets the content area width of the element.
+
+div{
+    width: 300px;
+}

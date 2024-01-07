@@ -1,0 +1,24 @@
+#outer{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    background-color: aqua;
+    font-size: 10px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: cornflowerblue;
+    /* 2em means doubles the outer div size parent */
+    font-size: 3em;
+    /* 1em means the same size as font-size of current div ie inner div   */
+    padding:1em;
+}
+
+button{
+    font-size: 50px;
+    border-radius: 15px;
+    border:  5px solid green;
+    padding-left: 20px;
+    padding-right: 20px;
+}

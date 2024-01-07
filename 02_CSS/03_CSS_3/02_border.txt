@@ -1,0 +1,24 @@
+Border : 
+Used to set an element's border 
+- border-width 
+- border-style 
+- border-color 
+
+Border Shorthand :  width | style | color 
+
+div{
+    border : 2px solid blue 
+}
+
+
+Border Sides 
+To control an individual sides of the box 
+- border-left
+- border-right
+- border-top 
+- border-bottom 
+
+
+Border-Radius : Used to round the corners of an elements outer border edge . 
+Check mdn for border-radius . It's good there . 
+

@@ -1,0 +1,19 @@
+h1{
+    border: 2px solid violet;
+    width: 33%; 
+    /* relative to parent : body */
+}
+
+#outer{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    margin: 50px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    /* This will be relative to the parent  */
+    margin-left: 10%;
+}

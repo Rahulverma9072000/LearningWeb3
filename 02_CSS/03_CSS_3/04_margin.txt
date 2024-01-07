@@ -1,0 +1,6 @@
+Margin : To set spacing on the outside of border 
+
+margin-left 
+margin-right 
+margin-top 
+margin-bottom 

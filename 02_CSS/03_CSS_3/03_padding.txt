@@ -1,0 +1,21 @@
+Padding 
+
+- padding-left 
+- padding-right 
+- padding-top 
+- padding-bottom 
+
+
+Padding Shorthand 
+#1 : for all 4 sides 
+padding : 50px;
+
+#2 : top & bottom | left and right 
+padding : 1px 2px;
+
+#3 top|left & right|bottom 
+padding : 1px 2px 3px;
+
+Clockwise Direction - Learn this 
+#4 top|right|bottom|left
+padding: 1px 2px 3px 4px 

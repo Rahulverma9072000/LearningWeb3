@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: greenyellow;
+    border: 2px solid black;
+    margin: 5px; 
+    /* Bcoz the display is inline so width , height will not work here and only margin ie horizontal  */
+    /* See the conclusion image  */
+    /* display: inline; */
+    /* Now if we want that element should be inline but the styling also should include  */
+    /* than use inline-block  */
+    display: inline-block;
+}

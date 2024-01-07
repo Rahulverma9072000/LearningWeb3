@@ -1,0 +1,11 @@
+Block Element : Takes up the full width available (Whole Block)
+Start from new line 
+
+Inline Elements : Takes up only necessary width 
+Don't start from new line 
+
+
+Display Property : It sets whether an element is treated as a block or inline element and the layout used for its children . 
+
+display : inline ;
+display : block ;
